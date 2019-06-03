@@ -1,0 +1,10 @@
+*.suo
+*.db
+*.opendb
+*.ipch
+*.pdb
+
+
+.vs
+**/Debug
+**/x64
